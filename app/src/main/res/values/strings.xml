@@ -13,4 +13,13 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="begin_workout">Begin Workout</string>
+    <string name="track_diet">Track Diet</string>
+    <string name="compounds">Compounds</string>
+    <string name="workouts">Workouts</string>
+    <string name="diet">Diet</string>
+    <string name="stats">Stats</string>
+    <string name="calculator">Calculator</string>
+    <string name="progress">Progress</string>
+    <string name="settings">Settings</string>
 </resources>
