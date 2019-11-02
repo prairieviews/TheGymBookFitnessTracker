@@ -72,7 +72,9 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_compounds) {
-            // Handle the camera action
+            Intent start_compound_tracker = new Intent(this, compound_tracker.class);
+            startActivity(start_compound_tracker);
+
         } else if (id == R.id.nav_workouts) {
 
         } else if (id == R.id.nav_diet) {
