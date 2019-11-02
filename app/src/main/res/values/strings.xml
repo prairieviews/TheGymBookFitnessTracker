@@ -22,4 +22,5 @@
     <string name="calculator">Calculator</string>
     <string name="progress">Progress</string>
     <string name="settings">Settings</string>
+    <string name="title_activity_workout_tracker">workout_tracker</string>
 </resources>
